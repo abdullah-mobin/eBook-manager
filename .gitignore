@@ -1,0 +1,5 @@
+*.excalidraw
+go.work.sum
+go.work
+.env
+*.test
